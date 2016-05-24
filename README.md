@@ -1,5 +1,5 @@
 # node-website
-This project is for Online market for food items.
+This project is an Online market for food items.
 This project is developed with node js.
 I have used css,html,java script for designing.
 To access the website first you have to download the web.zip file from repository unzip it then instal node js on your system.
